@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with everything if I'm being honest here.
 - 💬 Ask me about anything.
 - 📫 How to reach me: the.lethe_ on Instagram or aidoneus.lethe@gmail.com
-- 😄 Pronouns: she/her or they/them
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a huge book/game person
 
