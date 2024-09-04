@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything.
 - 📫 How to reach me: the.lethe_ on Instagram or aidoneus.lethe@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a huge book/game person.
+- ⚡ Fun fact: Currently playing Baldur's Gate 3 .
 
