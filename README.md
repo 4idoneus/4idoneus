@@ -6,12 +6,13 @@ I'm İpek but call me Aidoneus.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m working on self-projects that help me grow my knowledge.
-- 🌱 I’m currently learning Unity(C#), Python,and Full Stack Web Development.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with everything if I'm honest.
-- 💬 Ask me about anything.
-- 📫 How to reach me: the.lethe_ on Instagram or aidoneus.lethe@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: Currently playing Baldur's Gate 3 .
+  -🔭 I’m working on self-projects to expand my knowledge.
+  -✨ My main focus areas are Python, Data Analytics/Science, and Full Stack Web Development.
+  -🌱 I'm also honing my skills in Unity and C#, with a focus on game programming.
+  -👯 I’m open to collaboration on interesting projects.
+  -🤔 I’m seeking guidance on a wide range of topics.
+  -💬 Feel free to ask me anything.
+  -📫 You can reach me on Instagram at the.lethe_ or via email at aidoneus.lethe@gmail.com.
+  -😄 Pronouns: she/her
+  -⚡ Fun fact: I’m currently playing Baldur's Gate 3.
 
