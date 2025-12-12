@@ -38,8 +38,8 @@ A personal archive of technical exercises and algorithmic studies. This reposito
 I am open to academic collaboration and discussion regarding AI ethics and game strategy.
 
 * **ResearchGate:** [İpek Naz Sipahi](https://www.researchgate.net/profile/Ipek-Naz-Sipahi)
-* **Academic Mail:** [aidoneus.lethe@gmail.com](mailto:aidoneus.lethe@gmail.com)
-* **LinkedIn:** [İpek Naz Sipahi](https://www.linkedin.com/in/ipeknaz-sipahi)
+* **Academic Mail:** [My mail](mailto:aidoneus.lethe@gmail.com)
+* **LinkedIn:** [İpek Naz Sipahi](https://www.linkedin.com/in/ipeknazsipahi/)
 * **Institution:** Manisa Celal Bayar University, Türkiye
 
 ---
