@@ -18,12 +18,7 @@ Should you wish to parley or seek counsel:
 * 🦉 **Messenger Raven:** [aidoneus.lethe@gmail.com](mailto:aidoneus.lethe@gmail.com)
 * 📜 **The Visual Scrying Glass:** [Instagram (@the.lethe_)](https://www.instagram.com/the.lethe_/)
 * 🤝 **The Guild Registry:** [LinkedIn](https://www.linkedin.com/in/ipeknaz-sipahi)
-
----
-
-### ⚡ Mana & Stats
-![Aidoneus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=4idoneus&show_icons=true&theme=dark&hide_border=true)
-
+  
 ---
 
 *"Knowledge is the only treasure that multiplies when shared."*
