@@ -1,4 +1,4 @@
-# 🏰 The Sanctum of Aidoneus
+#  The Sanctum of Aidoneus
 
 > *"The mind is a universe, and I am its explorer."*
 
@@ -7,17 +7,17 @@ You have stumbled upon the digital tower of **Aidoneus** (also known in the mort
 
 ---
 
-### 🔮 My Current Quests
+### Echoes from the Abyss
 I am a lifelong scholar of the arcane, constantly transmuting coffee into code.
-* **🐍 The Serpent's Path:** Mastering the art of **Python** and **Data Science**.
-* **🕸️ Web Weaving:** Crafting portals using **Full Stack Development**.
-* **🤖 The Golem's Mind:** Unlocking the secrets of **AI & Machine Learning**.
+* ** The Serpent's Path:** Mastering the art of **Python** and **Data Science**.
+* ** Web Weaving:** Crafting portals using **Full Stack Development**.
+* ** The Golem's Mind:** Unlocking the secrets of **AI & Machine Learning**.
 
-### 📜 The Communication Runes
+###  The Communication Runes
 Should you wish to parley or seek counsel:
-* 🦉 **Messenger Raven:** [aidoneus.lethe@gmail.com](mailto:aidoneus.lethe@gmail.com)
-* 📜 **The Visual Scrying Glass:** [Instagram (@the.lethe_)](https://www.instagram.com/the.lethe_/)
-* 🤝 **The Guild Registry:** [LinkedIn](https://www.linkedin.com/in/ipeknaz-sipahi)
+* **Messenger Raven:** [aidoneus.lethe@gmail.com](mailto:aidoneus.lethe@gmail.com)
+* **The Visual Scrying Glass:** [Instagram (@the.lethe_)](https://www.instagram.com/the.lethe_/)
+* **The Guild Registry:** [LinkedIn](https://www.linkedin.com/in/ipeknaz-sipahi)
   
 ---
 
