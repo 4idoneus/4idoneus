@@ -27,12 +27,17 @@ My primary area of interest lies at the intersection of **Cognitive Game AI, Exp
 ### Selected Archives
 
 **1. [Beyond the Move: Phase I](https://github.com/4idoneus/beyond-the-move-phase-one)**
+
 *Status: Graduation Project I (Final Report Published)*
+
 A "Glass Box" Deep Learning framework designed to open the black box of Go AI engines. This project utilizes a ResNet-18 model trained on 150,000+ professional games and implements Integrated Gradients to visualize the strategic rationale behind expert move generation.
+
 **Live Demo:** [Streamlit Page](https://beyondthemovephase1.streamlit.app/)
 
 **2. Beyond the Move: Phase II (In Progress)**
+
 *Status: Pre-Graduate Research / IEEE CoG Preparation*
+
 Transitioning from pixel-level attribution to high-level "Intuition Modeling." Upgrading the visual pipeline with YOLOv8 for robust physical board detection and implementing Grad-CAM to capture human-like "Chunking" and shape recognition (e.g., Atsumi).
 
 ### Professional Network & Publications
